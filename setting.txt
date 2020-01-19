@@ -1,0 +1,6 @@
+echo "# oAuth_Practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:seeck3/oAuth_Practice.git
+git push -u origin master
